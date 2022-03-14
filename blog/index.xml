@@ -10,9 +10,19 @@
     <item>
       <title>阿玄的第一篇文章</title>
       <link>https://Jason-Hsuan.github.io/blog/test/</link>
-      <pubDate>Sat, 12 Mar 2022 10:07:47 +0600</pubDate>
+      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://Jason-Hsuan.github.io/blog/test/</guid>
+      <description>hello hello hello hello hello
+print(&amp;#34;hello&amp;#34;)    </description>
+    </item>
+    
+    <item>
+      <title>一月文章</title>
+      <link>https://Jason-Hsuan.github.io/blog/2022-1/test-2/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://Jason-Hsuan.github.io/blog/2022-1/test-2/</guid>
       <description>hello hello hello hello hello
 print(&amp;#34;hello&amp;#34;)    </description>
     </item>
