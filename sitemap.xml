@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://Jason-Hsuan.github.io/categories/3d-design/</loc>
+    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://Jason-Hsuan.github.io/categories/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Jason-Hsuan.github.io/tags/game/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Jason-Hsuan.github.io/categories/go-language/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Jason-Hsuan.github.io/tags/html/</loc>
@@ -18,9 +15,6 @@
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Jason-Hsuan.github.io/tags/medical/</loc>
-    <lastmod>2022-03-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Jason-Hsuan.github.io/tags/new/</loc>
     <lastmod>2022-03-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Jason-Hsuan.github.io/tags/python/</loc>
@@ -50,9 +44,6 @@
     <loc>https://Jason-Hsuan.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
-    <loc>https://Jason-Hsuan.github.io/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
     <loc>https://Jason-Hsuan.github.io/blog/post-1/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
@@ -60,6 +51,9 @@
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url><url>
     <loc>https://Jason-Hsuan.github.io/tags/react/</loc>
+    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+  </url><url>
+    <loc>https://Jason-Hsuan.github.io/categories/web-development/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
 </urlset>
