@@ -8,19 +8,19 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://Jason-Hsuan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>阿玄的第一篇文章</title>
-      <link>https://Jason-Hsuan.github.io/blog/test/</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
+      <title>這酒好澀!WHY？</title>
+      <link>https://Jason-Hsuan.github.io/blog/2022-3/wine/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0800</pubDate>
       
-      <guid>https://Jason-Hsuan.github.io/blog/test/</guid>
-      <description>hello hello hello hello hello
-print(&amp;#34;hello&amp;#34;)    </description>
+      <guid>https://Jason-Hsuan.github.io/blog/2022-3/wine/</guid>
+      <description>很多客人買葡萄酒時會指名沒有單寧或是單寧很低的酒，說喝起來比較順口。 那到底甚麼是單寧呢，為甚麼會造成澀澀的原因呢？ 以下幫大家整理一些和單寧有關的小常識 單寧是一群酚類分子及多酚類分子的總稱，各種單寧有不同的味道及特質，基本上依照物理性質可分為兩類型。
+  可溶性單寧: 通常是附在糖上，部分存在在果皮，不過大部分酒中的可溶解單寧是從木桶中溶出，許多橡樹屬Quercus或栗樹屬 Chestnut都有可溶性單寧的存在，此類型單寧如Gallotannins 或 ellagitannins 較有特殊香氣且有滑順的口感</description>
     </item>
     
     <item>
       <title>一月文章</title>
       <link>https://Jason-Hsuan.github.io/blog/2022-1/test-2/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0800</pubDate>
       
       <guid>https://Jason-Hsuan.github.io/blog/2022-1/test-2/</guid>
       <description>hello hello hello hello hello
@@ -29,10 +29,10 @@ print(&amp;#34;hello&amp;#34;)    </description>
     
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Jason-Hsuan.github.io/blog/post-1/</link>
+      <link>https://Jason-Hsuan.github.io/blog/2022-1/post-1/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://Jason-Hsuan.github.io/blog/post-1/</guid>
+      <guid>https://Jason-Hsuan.github.io/blog/2022-1/post-1/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
